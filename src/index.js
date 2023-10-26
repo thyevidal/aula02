@@ -15,3 +15,4 @@ function tick(){
 )
 }
 
+setInterval(tick, 1000)
